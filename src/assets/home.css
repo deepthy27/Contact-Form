@@ -1,0 +1,9 @@
+.home-image{
+    background-image: url("https://i.pinimg.com/originals/a1/9d/8e/a19d8ef679265caed6db046bcbb1dc9e.jpg");
+    background-color: #cccccc;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
