@@ -1,0 +1,14 @@
+.labels{
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.data{
+    margin-left: 20px;
+}
+.modal-header .close {
+    display:none !important;
+  }
+  .modal-title{
+    margin-left: 180px;
+  }

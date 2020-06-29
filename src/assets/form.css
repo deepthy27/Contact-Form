@@ -1,0 +1,38 @@
+.labels{
+    color:black
+}
+.form-title{
+    text-align: center;
+}
+
+.jumbotron-css{
+    opacity: 0.8;
+    width: 700px;
+    margin-left: 200px;
+    height: 715x;
+    padding: 1rem 2rem !important;
+}
+
+.button{
+    margin: 0px 0px 0px 20px;
+}
+
+.eye-password{
+    position: absolute;
+    top:272px;
+    right:450px;
+}
+.eye-confirm-password{
+  position: absolute;
+  top:355px;
+  right:450px;
+}
+
+.error{
+    color: red;
+}
+ .alert{
+     position: absolute;
+     bottom: 675px;
+    margin-left: 200px;
+ }
